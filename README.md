@@ -19,3 +19,6 @@ Based on the results, the reviews from Rotten Tomatoes were much more negative t
 
 This does support my question on whether there would be a difference in the Sentiment Analysis when comparing reviews from Twitter and Totten Tomatoes.
 
+## Poster
+![Captain Marvel Poster](img/cm_poster.png)
+
